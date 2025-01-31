@@ -709,7 +709,7 @@ div.profileThemedContainer__656be {
   border-radius: var(--radius);
 }
 .layout__91a9d {
-  border-radius: 20px;
+  border-radius: 8px;
   margin-bottom: 1px;
   margin-top: 1px;
 }
@@ -790,6 +790,7 @@ div.profileThemedContainer__656be {
 .link__2ea32 {
   border-radius: 5px;
 }
-.member__5d473 {
-  border-radius: 5px;
+.avatarWrapper__37e49 {
+  border-radius: 8px !important;
+  padding-inline: 4px;
 }

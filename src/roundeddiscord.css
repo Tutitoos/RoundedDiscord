@@ -794,3 +794,12 @@ div.profileThemedContainer__656be {
   border-radius: 8px !important;
   padding-inline: 4px;
 }
+.vc-uvs-speaker {
+  background-color: #5865f2 !important;
+  padding: 3px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+

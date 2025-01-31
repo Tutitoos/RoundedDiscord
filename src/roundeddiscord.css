@@ -736,6 +736,7 @@ div.profileThemedContainer__656be {
 }
 .footer__214dc {
   margin-top: auto;
+  background-color: transparent !important;
 }
 .categoryFade_d02962:hover {
   backdrop-filter: none;
@@ -774,4 +775,7 @@ div.profileThemedContainer__656be {
 }
 .actionButtons_e131a9 > div > span {
   background: transparent !important;
+}
+.theme-dark.container_37e49 {
+  background-color: var(--background-secondary) !important;
 }

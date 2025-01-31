@@ -56,7 +56,6 @@
 .burstGlow__23977,
 .burstGlow_f8896c,
 .buttonInner__34c2c,
-.button__201d5,
 .button__02a39,
 .button_f23d00,
 .button_f7ecac.selected_f7ecac,
@@ -181,7 +180,6 @@
 .editCard_a25a68,
 .editCard_a25a68:before,
 .effectGridItem_b4019a,
-.embed__623de,
 .enableSwitch__3c9fa,
 .error__4cd16,
 .executedCommand_c19a55 .appLauncherOnboardingCommandName_c19a55,
@@ -777,5 +775,17 @@ div.profileThemedContainer__656be {
   background: transparent !important;
 }
 .container_37e49 {
-  background-color: var(--background-secondary) !important;
+  background: var(--background-secondary) !important;
+}
+.embed__623de {
+  border-radius: none !important;
+}
+.button__201d5 {
+  border-radius: 8px !important;
+}
+.buttons__74017:nth-child(2) {
+  display: none !important;
+}
+.shiki-root code {
+  border-radius: 5px;
 }

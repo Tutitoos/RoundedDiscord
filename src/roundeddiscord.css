@@ -781,11 +781,18 @@ div.profileThemedContainer__656be {
   border-radius: none !important;
 }
 .button__201d5 {
-  border-radius: 8px !important;
+  border-radius: 5px !important;
 }
 .buttons__74017:nth-child(2) {
   display: none !important;
 }
 .shiki-root code {
+  border-radius: 5px;
+  background: var(--background-tertiary) !important;
+}
+.link__2ea32 {
+  border-radius: 5px;
+}
+.member__5d473 {
   border-radius: 5px;
 }

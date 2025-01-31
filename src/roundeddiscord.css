@@ -794,3 +794,25 @@ div.profileThemedContainer__656be {
   border-radius: 8px !important;
   padding-inline: 4px;
 }
+.selectOption_b08511, .selectOption_b08511:hover {
+  border-radius: 5px;
+}
+.popout__3f413 {
+  border-radius: 8px !important;
+  padding: 6px !important;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.select__3f413 {
+  border-radius: 8px !important;
+}
+.searchBar__97492 {
+  border-radius: 5px !important;
+}
+.wrapper__260e1 {
+  border-radius: 5px !important;
+}
+.overflow__82b15 {
+  color: #5865F2 !important;
+}

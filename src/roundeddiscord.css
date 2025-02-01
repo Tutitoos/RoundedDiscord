@@ -702,7 +702,7 @@ div.profileThemedContainer__656be {
   border-bottom-left-radius: 8px !important;
 }
 .suggestedColor__713b5 {
-  border-radius: 10px;
+  border-radius: 8px;
 }
 .userProfileOuterUnthemed_c69a7b {
   background: none;
@@ -717,7 +717,7 @@ div.profileThemedContainer__656be {
   mask: none;
 }
 .bottomControls_bfe55a .button__201d5 {
-  border-radius: 30px !important;
+  border-radius: 8px !important;
 }
 .channelTextArea_f75fb0 {
   background-color: unset;
@@ -778,17 +778,17 @@ div.profileThemedContainer__656be {
   border-radius: none !important;
 }
 .button__201d5 {
-  border-radius: 5px !important;
+  border-radius: 8px !important;
 }
 .buttons__74017:nth-child(2) {
   display: none !important;
 }
 .shiki-root code {
-  border-radius: 5px;
+  border-radius: 8px;
   background: var(--background-tertiary) !important;
 }
 .link__2ea32 {
-  border-radius: 5px;
+  border-radius: 8px;
 }
 .interactive_bf202d {
   border-radius: 8px !important;
@@ -817,7 +817,7 @@ div.profileThemedContainer__656be {
   border-radius: 8px !important;
 }
 .wrapper__260e1 {
-  border-radius: 5px !important;
+  border-radius: 8px !important;
 }
 .text__8ac07 {
   color: #5865F2 !important;
